@@ -1,82 +1,48 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
-		logo: "../logo.png",
+		title: "Reactfolio",
+		name: "Trang Nguyen",
+		email: "nnhtrang3107@gmail.com",
+		logo: "../girl.avif",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		github: "https://github.com/Edgyin42",
+		linkedin: "https://www.linkedin.com/in/trangnguyen3107/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "CS student at university of Adelaide",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
-	},
-
-	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
-		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
-	},
-
-	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"I'm a first-year student pursuing a Bachelor of Computer Science at the University of Adelaide, I'm passionate about doing challenging projects with significant impacts. My goal is to become a software engineer. I love solving problems and creating innovative solutions, and I'm actively gaining foundational knowledge while seeking practical experiences to apply my skills.",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "VisioElements",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Embark on a visually captivating journey through the periodic table with VisioElements – your gateway to a dynamic and interactive exploration of the chemical world. Gone are the days of static tables; VisioElements brings the elements to life, offering an immersive and engaging experience for students, educators, and chemistry enthusiasts alike.",
+			logo: "./matlab3.jpeg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Edgyin42/VisioElements",
 		},
 
 		{
-			title: "Project 2",
+			title: "Maze runner",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"A game made by C++ using SFML. This was implemented by following the principles of Object-oriented programming.",
+			logo: "./Cpp.jpg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Edgyin42/mazerunner_game",
 		},
 
 		{
-			title: "Project 3",
+			title: "Monkey run",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Monkey Run is an interactive game that blends the virtual and real worlds, engaging players through real-world actions. This project was completed while I was competing at Unihack 2024 along with 5 of my friends. The game itself was built using Godot game engine. To detect movements, we used mediapipe, a pose detection library.",
+			logo: "./godot.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/rayokamoto/unihack",
 		},
 	],
 };
