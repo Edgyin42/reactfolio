@@ -12,7 +12,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "CS student at university of Adelaide",
+		title: "Hey, my name is Trang Nguyen. I'm a 1st year CS student at university of Adelaide",
 		description:
 			"I'm a first-year student pursuing a Bachelor of Computer Science at the University of Adelaide, I'm passionate about doing challenging projects with significant impacts. My goal is to become a software engineer. I love solving problems and creating innovative solutions, and I'm actively gaining foundational knowledge while seeking practical experiences to apply my skills.",
 	},
